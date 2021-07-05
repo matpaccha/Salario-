@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/Recursos">
+        <file>fotos/agregar-archivo.png</file>
+    </qresource>
+</RCC>
